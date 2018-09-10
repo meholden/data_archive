@@ -1,2 +1,3 @@
 # n3m0data
-Data from n3m0 the autonomous boat and tests
+Archive of Data from Cal Maritime Autonomous Boats
+n3m0 and Dumbo
