@@ -2,7 +2,7 @@
 # Home Page for Data 
 Autonomous Boats Gather Data
 
-![alt text](20170615_155019-crop.jpg "n3m0" | width=100 )
+![n3m0](20170615_155019-crop.jpg | width=100 )
 
 Data is archived Here
 
