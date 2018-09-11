@@ -12,8 +12,8 @@ The files can be viewed by clicking the "View... on Github" link at the top.  Ea
 
 ### Each vessel has its own directory
 
-* [n3m0](../n3m0/)
-* [Dumbo](../dumbo/)
+* [n3m0](https://github.com/meholden/data_archive/blob/master/n3m0/)
+* [Dumbo](https://github.com/meholden/data_archive/blob/master/dumbo/)
 
 ***
 
