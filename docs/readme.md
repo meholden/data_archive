@@ -2,6 +2,8 @@
 # Home Page for Data 
 Autonomous Boats Gather Data
 
+![alt text](20170615_155019-crop.jpg "n3m0")
+
 Data is archived Here
 
 Most of the data will be in the geojson format, which Github can render.  
