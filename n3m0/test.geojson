@@ -1,0 +1,12 @@
+{
+ "type": "FeatureCollection",
+  "features": [
+{ "type":"Feature","properties": 
+{"Unixtime(sec)":"1502144276.46","Wpt":"1","Speed(m/s)":"1.6","Heading(deg)":"246.47","Temperature(C)":"25.81"},
+"geometry":{"type": "Point","coordinates": [-122.043341, 37.920109]}},
+{ "type":"Feature","properties": 
+{"Unixtime(sec)":"1502144277.46","Wpt":"1","Speed(m/s)":"2.6","Heading(deg)":"247.47","Temperature(C)":"26.81"},
+"geometry":{"type": "Point","coordinates": [-123.043341, 38.920109]}},
+{ "type":"Feature","properties": 
+{"Unixtime(sec)":"1502144278.46","Wpt":"1","Speed(m/s)":"3.6","Heading(deg)":"248.47","Temperature(C)":"27.81"},
+"geometry":{"type": "Point","coordinates": [-124.043341, 39.920109]}}]}
