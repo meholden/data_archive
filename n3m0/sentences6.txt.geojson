@@ -1,0 +1,12 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+{ "type":"Feature","properties": {"loggertime(s)":"326.27","unixtime(s)":"1502144276.46","wpt":"1","speed(m/s)":"1.60","heading(deg)":"246.47","temperature(c)":"25.81"},
+ "geometry":{"type": "Point","coordinates": [-122.043213,37.920182]}},{ "type":"Feature","properties": {"loggertime(s)":"335.34","unixtime(s)":"1502144276.46","wpt":"2","speed(m/s)":"1.17","heading(deg)":"215.99","temperature(c)":"25.37"},
+ "geometry":{"type": "Point","coordinates": [-122.043302,37.920096]}},{ "type":"Feature","properties": {"loggertime(s)":"348.24","unixtime(s)":"1502144276.46","wpt":"3","speed(m/s)":"1.39","heading(deg)":"217.11","temperature(c)":"24.12"},
+ "geometry":{"type": "Point","coordinates": [-122.043405,37.919965]}},{ "type":"Feature","properties": {"loggertime(s)":"362.74","unixtime(s)":"1502144276.46","wpt":"4","speed(m/s)":"1.40","heading(deg)":"186.11","temperature(c)":"24.37"},
+ "geometry":{"type": "Point","coordinates": [-122.043443,37.919818]}},{ "type":"Feature","properties": {"loggertime(s)":"371.74","unixtime(s)":"1502144276.46","wpt":"5","speed(m/s)":"1.41","heading(deg)":"278.93","temperature(c)":"24.50"},
+ "geometry":{"type": "Point","coordinates": [-122.043546,37.919776]}},{ "type":"Feature","properties": {"loggertime(s)":"380.83","unixtime(s)":"1502144276.46","wpt":"6","speed(m/s)":"1.27","heading(deg)":"9.46","temperature(c)":"24.87"},
+ "geometry":{"type": "Point","coordinates": [-122.043584,37.919834]}},{ "type":"Feature","properties": {"loggertime(s)":"390.63","unixtime(s)":"1502144276.46","wpt":"7","speed(m/s)":"1.42","heading(deg)":"21.35","temperature(c)":"25.06"},
+ "geometry":{"type": "Point","coordinates": [-122.043533,37.919971]}},{ "type":"Feature","properties": {"loggertime(s)":"408.73","unixtime(s)":"1502144410.68","wpt":"8","speed(m/s)":"1.32","heading(deg)":"52.35","temperature(c)":"24.69"},
+ "geometry":{"type": "Point","coordinates": [-122.043341,37.920109]}}]}
