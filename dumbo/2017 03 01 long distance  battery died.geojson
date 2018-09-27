@@ -2,9 +2,6 @@
  "type": "FeatureCollection",
   "features": [
 { "type":"Feature","properties": 
-{"Timestamp":"0:00:00:0-0-0","GPS State":"0","Temperature(C)":"11.25","Conductivity(uS/cm)":"0.00","Total Dissolved Solids (PPM)":"0","Salinity (PSU)":"0.00","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"11.45"},
-"geometry":{"type": "Point","coordinates": [0.0, 0.0]}},
-{ "type":"Feature","properties": 
 {"Timestamp":"18:34:30:17-3-1","GPS State":"1","Temperature(C)":"11.25","Conductivity(uS/cm)":"5.60","Total Dissolved Solids (PPM)":"3","Salinity (PSU)":"0.00","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"11.86"},
 "geometry":{"type": "Point","coordinates": [-122.2346, 38.0687]}},
 { "type":"Feature","properties": 
