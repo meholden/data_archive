@@ -1,0 +1,90 @@
+{
+ "type": "FeatureCollection",
+  "features": [
+{ "type":"Feature","properties": 
+{"Timestamp":"17:29:24:17-1-27","GPS State":"1","Temperature(C)":"10.06","Conductivity(uS/cm)":"303.8","Total Dissolved Solids (PPM)":"164","Salinity (PSU)":"0.14","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"11.07"},
+"geometry":{"type": "Point","coordinates": [-122.2307, 38.0668]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:29:43:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"288.4","Total Dissolved Solids (PPM)":"155","Salinity (PSU)":"0.13","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"11.07"},
+"geometry":{"type": "Point","coordinates": [-122.2309, 38.067]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:30:04:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"271.8","Total Dissolved Solids (PPM)":"146","Salinity (PSU)":"0.12","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"11.04"},
+"geometry":{"type": "Point","coordinates": [-122.2311, 38.0672]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:30:28:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"297.7","Total Dissolved Solids (PPM)":"160","Salinity (PSU)":"0.13","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"11.05"},
+"geometry":{"type": "Point","coordinates": [-122.2313, 38.0674]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:30:51:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"258.0","Total Dissolved Solids (PPM)":"139","Salinity (PSU)":"0.12","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"11.04"},
+"geometry":{"type": "Point","coordinates": [-122.2315, 38.0676]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:31:14:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"282.4","Total Dissolved Solids (PPM)":"152","Salinity (PSU)":"0.13","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"11.03"},
+"geometry":{"type": "Point","coordinates": [-122.2318, 38.0678]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:31:38:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"269.2","Total Dissolved Solids (PPM)":"145","Salinity (PSU)":"0.12","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"11.05"},
+"geometry":{"type": "Point","coordinates": [-122.232, 38.068]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:32:02:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"247.5","Total Dissolved Solids (PPM)":"133","Salinity (PSU)":"0.11","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"11.05"},
+"geometry":{"type": "Point","coordinates": [-122.2323, 38.068]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:32:30:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"242.5","Total Dissolved Solids (PPM)":"130","Salinity (PSU)":"0.11","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"10.98"},
+"geometry":{"type": "Point","coordinates": [-122.2321, 38.0677]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:32:52:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"260.9","Total Dissolved Solids (PPM)":"140","Salinity (PSU)":"0.12","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"10.97"},
+"geometry":{"type": "Point","coordinates": [-122.2319, 38.0675]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:33:18:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"305.1","Total Dissolved Solids (PPM)":"164","Salinity (PSU)":"0.14","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"10.96"},
+"geometry":{"type": "Point","coordinates": [-122.2317, 38.0673]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:33:44:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"271.5","Total Dissolved Solids (PPM)":"146","Salinity (PSU)":"0.12","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"10.99"},
+"geometry":{"type": "Point","coordinates": [-122.2315, 38.0671]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:34:12:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"309.5","Total Dissolved Solids (PPM)":"167","Salinity (PSU)":"0.14","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"10.96"},
+"geometry":{"type": "Point","coordinates": [-122.2312, 38.0669]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:34:32:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"331.6","Total Dissolved Solids (PPM)":"179","Salinity (PSU)":"0.15","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"10.96"},
+"geometry":{"type": "Point","coordinates": [-122.2311, 38.0668]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:35:06:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"302.4","Total Dissolved Solids (PPM)":"163","Salinity (PSU)":"0.14","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"10.95"},
+"geometry":{"type": "Point","coordinates": [-122.2313, 38.0667]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:35:14:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"295.4","Total Dissolved Solids (PPM)":"159","Salinity (PSU)":"0.13","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"10.91"},
+"geometry":{"type": "Point","coordinates": [-122.2314, 38.0667]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:35:48:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"249.4","Total Dissolved Solids (PPM)":"134","Salinity (PSU)":"0.11","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"10.91"},
+"geometry":{"type": "Point","coordinates": [-122.2317, 38.0669]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:36:23:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"253.6","Total Dissolved Solids (PPM)":"136","Salinity (PSU)":"0.11","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"10.91"},
+"geometry":{"type": "Point","coordinates": [-122.2319, 38.0671]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:36:56:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"229.0","Total Dissolved Solids (PPM)":"123","Salinity (PSU)":"0.10","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"10.91"},
+"geometry":{"type": "Point","coordinates": [-122.2321, 38.0673]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:37:30:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"228.5","Total Dissolved Solids (PPM)":"123","Salinity (PSU)":"0.10","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"10.90"},
+"geometry":{"type": "Point","coordinates": [-122.2323, 38.0675]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:38:02:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"233.8","Total Dissolved Solids (PPM)":"126","Salinity (PSU)":"0.10","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"10.90"},
+"geometry":{"type": "Point","coordinates": [-122.2325, 38.0677]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:38:18:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"232.3","Total Dissolved Solids (PPM)":"125","Salinity (PSU)":"0.10","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"10.89"},
+"geometry":{"type": "Point","coordinates": [-122.2326, 38.0678]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:38:48:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"228.6","Total Dissolved Solids (PPM)":"123","Salinity (PSU)":"0.10","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"10.92"},
+"geometry":{"type": "Point","coordinates": [-122.2329, 38.0677]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:39:04:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"224.0","Total Dissolved Solids (PPM)":"121","Salinity (PSU)":"0.10","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"10.90"},
+"geometry":{"type": "Point","coordinates": [-122.2329, 38.0676]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:39:34:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"225.7","Total Dissolved Solids (PPM)":"121","Salinity (PSU)":"0.10","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"10.92"},
+"geometry":{"type": "Point","coordinates": [-122.2327, 38.0674]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:40:04:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"226.2","Total Dissolved Solids (PPM)":"122","Salinity (PSU)":"0.10","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"10.87"},
+"geometry":{"type": "Point","coordinates": [-122.2324, 38.0672]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:40:35:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"228.6","Total Dissolved Solids (PPM)":"123","Salinity (PSU)":"0.10","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"10.90"},
+"geometry":{"type": "Point","coordinates": [-122.2322, 38.067]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:41:04:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"230.2","Total Dissolved Solids (PPM)":"124","Salinity (PSU)":"0.10","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"10.85"},
+"geometry":{"type": "Point","coordinates": [-122.232, 38.0668]}},
+{ "type":"Feature","properties": 
+{"Timestamp":"17:41:34:17-1-27","GPS State":"1","Temperature(C)":"9.06","Conductivity(uS/cm)":"220.7","Total Dissolved Solids (PPM)":"119","Salinity (PSU)":"0.10","Specific Gravity":"1.000","Dissolved Oxygen (mg/L":"10.88"},
+"geometry":{"type": "Point","coordinates": [-122.2318, 38.0666]}}]}
