@@ -39,4 +39,28 @@
 "geometry":{"type": "Point","coordinates": [-122.2323246, 38.0679325]}},
 { "type":"Feature","properties": 
 {"date-time":"2018-10-24 13:08:53 ","Battery (Volts)":"11.69","Heading(deg)":"131","Speed(m/s)":"1.20548427105","Temperature(C)":"17.25"},
-"geometry":{"type": "Point","coordinates": [-122.2320902, 38.067728]}}]}
+"geometry":{"type": "Point","coordinates": [-122.2320902, 38.067728]}},
+{ "type":"Feature","properties": 
+{"date-time":"2018-10-24 13:09:18 ","Battery (Volts)":"11.677","Heading(deg)":"137","Speed(m/s)":"1.25632512569","Temperature(C)":"17.187"},
+"geometry":{"type": "Point","coordinates": [-122.2318699, 38.0675195]}},
+{ "type":"Feature","properties": 
+{"date-time":"2018-10-24 13:09:43 ","Battery (Volts)":"11.678","Heading(deg)":"136","Speed(m/s)":"1.31811416149","Temperature(C)":"17.062"},
+"geometry":{"type": "Point","coordinates": [-122.2316554, 38.0673148]}},
+{ "type":"Feature","properties": 
+{"date-time":"2018-10-24 13:10:07 ","Battery (Volts)":"11.631","Heading(deg)":"132","Speed(m/s)":"1.22826933861","Temperature(C)":"17.125"},
+"geometry":{"type": "Point","coordinates": [-122.231437, 38.0671105]}},
+{ "type":"Feature","properties": 
+{"date-time":"2018-10-24 13:10:34 ","Battery (Volts)":"11.68","Heading(deg)":"133","Speed(m/s)":"1.09672653675","Temperature(C)":"17.187"},
+"geometry":{"type": "Point","coordinates": [-122.2312066, 38.0668979]}},
+{ "type":"Feature","properties": 
+{"date-time":"2018-10-24 13:10:39 ","Battery (Volts)":"11.58","Heading(deg)":"138","Speed(m/s)":"1.2221531868","Temperature(C)":"17.187"},
+"geometry":{"type": "Point","coordinates": [-122.2311593, 38.0668552]}},
+{ "type":"Feature","properties": 
+{"date-time":"2018-10-24 13:10:41 ","Battery (Volts)":"11.684","Heading(deg)":"66","Speed(m/s)":"0.932824611664","Temperature(C)":"17.187"},
+"geometry":{"type": "Point","coordinates": [-122.2311343, 38.0668502]}},
+{ "type":"Feature","properties": 
+{"date-time":"2018-10-24 13:10:43 ","Battery (Volts)":"11.655","Heading(deg)":"21","Speed(m/s)":"1.12879526615","Temperature(C)":"17.187"},
+"geometry":{"type": "Point","coordinates": [-122.2311277, 38.06686]}},
+{ "type":"Feature","properties": 
+{"date-time":"2018-10-24 13:10:45 ","Battery (Volts)":"11.665","Heading(deg)":"8","Speed(m/s)":"1.24715352058","Temperature(C)":"17.187"},
+"geometry":{"type": "Point","coordinates": [-122.231128, 38.066877]}}]}
