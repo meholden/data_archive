@@ -15,4 +15,7 @@
 "geometry":{"type": "Point","coordinates": [-122.230545, 38.0684648]}},
 { "type":"Feature","properties": 
 {"date-time":"2019-01-31 15:36:56 ","Battery (Volts)":"12.28","Heading(deg)":"259","Speed(m/s)":"0.0951243937016","Temperature(C)":"22.562"},
-"geometry":{"type": "Point","coordinates": [-122.2305444, 38.0684673]}}]}
+"geometry":{"type": "Point","coordinates": [-122.2305444, 38.0684673]}},
+{ "type":"Feature","properties": 
+{"date-time":"2019-01-31 15:38:52 ","Battery (Volts)":"12.274","Heading(deg)":"259","Speed(m/s)":"0.059708148241","Temperature(C)":"22.437"},
+"geometry":{"type": "Point","coordinates": [-122.2305815, 38.0685235]}}]}
