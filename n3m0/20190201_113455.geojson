@@ -1,0 +1,6 @@
+{
+ "type": "FeatureCollection",
+  "features": [
+{ "type":"Feature","properties": 
+{"date-time":"2019-02-01 11:35:35 ","Battery (Volts)":"12.163","Heading(deg)":"298","Speed(m/s)":"0.303501516581","Temperature(C)":"21.25"},
+"geometry":{"type": "Point","coordinates": [-122.2305972, 38.0684605]}}]}
