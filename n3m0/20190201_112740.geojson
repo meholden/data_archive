@@ -1,0 +1,9 @@
+{
+ "type": "FeatureCollection",
+  "features": [
+{ "type":"Feature","properties": 
+{"date-time":"2019-02-01 11:27:45 ","Battery (Volts)":"12.199","Heading(deg)":"270","Speed(m/s)":"0.202880352736","Temperature(C)":"21.062"},
+"geometry":{"type": "Point","coordinates": [-122.2305538, 38.0684816]}},
+{ "type":"Feature","properties": 
+{"date-time":"2019-02-01 11:27:50 ","Battery (Volts)":"12.167","Heading(deg)":"270","Speed(m/s)":"0.128686413169","Temperature(C)":"21.062"},
+"geometry":{"type": "Point","coordinates": [-122.2305531, 38.0684787]}}]}
