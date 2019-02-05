@@ -9,4 +9,10 @@
 "geometry":{"type": "Point","coordinates": [-122.2300971, 38.065996]}},
 { "type":"Feature","properties": 
 {"date-time":"2019-02-05 14:41:51 ","Battery (Volts)":"12.47","Heading(deg)":"195","Speed(m/s)":"0.347039163113","Temperature(C)":"9.5"},
-"geometry":{"type": "Point","coordinates": [-122.2301468, 38.0659284]}}]}
+"geometry":{"type": "Point","coordinates": [-122.2301468, 38.0659284]}},
+{ "type":"Feature","properties": 
+{"date-time":"2019-02-05 14:42:09 ","Battery (Volts)":"12.457","Heading(deg)":"195","Speed(m/s)":"0.159283727407","Temperature(C)":"9.625"},
+"geometry":{"type": "Point","coordinates": [-122.2301032, 38.065976]}},
+{ "type":"Feature","properties": 
+{"date-time":"2019-02-05 14:42:20 ","Battery (Volts)":"12.47","Heading(deg)":"195","Speed(m/s)":"0.187830209732","Temperature(C)":"9.625"},
+"geometry":{"type": "Point","coordinates": [-122.230101, 38.0659832]}}]}
