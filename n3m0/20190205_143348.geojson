@@ -108,4 +108,19 @@
 "geometry":{"type": "Point","coordinates": [-122.2317305, 38.066548]}},
 { "type":"Feature","properties": 
 {"date-time":"2019-02-05 14:51:37 ","Battery (Volts)":"12.07","Heading(deg)":"142","Speed(m/s)":"2.06997227669","Temperature(C)":"11.937"},
-"geometry":{"type": "Point","coordinates": [-122.2317188, 38.0665366]}}]}
+"geometry":{"type": "Point","coordinates": [-122.2317188, 38.0665366]}},
+{ "type":"Feature","properties": 
+{"date-time":"2019-02-05 14:52:06 ","Battery (Volts)":"11.945","Heading(deg)":"70","Speed(m/s)":"2.1729156971","Temperature(C)":"11.875"},
+"geometry":{"type": "Point","coordinates": [-122.2310073, 38.0666678]}},
+{ "type":"Feature","properties": 
+{"date-time":"2019-02-05 14:52:19 ","Battery (Volts)":"11.956","Heading(deg)":"129","Speed(m/s)":"1.95598065853","Temperature(C)":"11.812"},
+"geometry":{"type": "Point","coordinates": [-122.2307669, 38.0665209]}},
+{ "type":"Feature","properties": 
+{"date-time":"2019-02-05 14:52:41 ","Battery (Volts)":"12.025","Heading(deg)":"308","Speed(m/s)":"1.93209028244","Temperature(C)":"11.812"},
+"geometry":{"type": "Point","coordinates": [-122.2309708, 38.0666623]}},
+{ "type":"Feature","properties": 
+{"date-time":"2019-02-05 14:53:15 ","Battery (Volts)":"11.885","Heading(deg)":"130","Speed(m/s)":"2.08661079407","Temperature(C)":"11.687"},
+"geometry":{"type": "Point","coordinates": [-122.2304603, 38.0663115]}},
+{ "type":"Feature","properties": 
+{"date-time":"2019-02-05 14:53:54 ","Battery (Volts)":"11.892","Heading(deg)":"309","Speed(m/s)":"1.8162072897","Temperature(C)":"11.812"},
+"geometry":{"type": "Point","coordinates": [-122.2309726, 38.0666622]}}]}
