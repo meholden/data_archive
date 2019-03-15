@@ -3,4 +3,7 @@
   "features": [
 { "type":"Feature","properties": 
 {"date-time":"2019-03-14 18:42:58 ","Battery (Volts)":"11.815","Heading(deg)":"52","Speed(m/s)":"0.097000002861","Temperature(C)":"17.25"},
-"geometry":{"type": "Point","coordinates": [-122.0909921, 37.9967075]}}]}
+"geometry":{"type": "Point","coordinates": [-122.0909921, 37.9967075]}},
+{ "type":"Feature","properties": 
+{"date-time":"2019-03-14 18:43:11 ","Battery (Volts)":"11.795","Heading(deg)":"52","Speed(m/s)":"0.0730000063777","Temperature(C)":"17.25"},
+"geometry":{"type": "Point","coordinates": [-122.0909834, 37.9967015]}}]}
