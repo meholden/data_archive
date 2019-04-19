@@ -1,0 +1,30 @@
+{
+ "type": "FeatureCollection",
+  "features": [
+{ "type":"Feature","properties": 
+{"date-time":"2019-04-19 12:16:25 ","Battery (Volts)":"12.112","Heading(deg)":"348","GPS Speed(m/s)":"1.58494615555","Temperature(C)":"26.6","Depth(ft)":"17.6","Boatspeed(kt)":"5.3","Depth Timestamp":"1555701385.36"},
+"geometry":{"type": "Point","coordinates": [-122.2303286, 38.0661615]}},
+{ "type":"Feature","properties": 
+{"date-time":"2019-04-19 12:16:26 ","Battery (Volts)":"12.164","Heading(deg)":"345","GPS Speed(m/s)":"1.51863181591","Temperature(C)":"26.4","Depth(ft)":"13.2","Boatspeed(kt)":"5.5","Depth Timestamp":"1555701386.3"},
+"geometry":{"type": "Point","coordinates": [-122.2303323, 38.0661707]}},
+{ "type":"Feature","properties": 
+{"date-time":"2019-04-19 12:16:27 ","Battery (Volts)":"12.018","Heading(deg)":"359","GPS Speed(m/s)":"1.85705721378","Temperature(C)":"26.4","Depth(ft)":"13.2","Boatspeed(kt)":"5.5","Depth Timestamp":"1555701387.26"},
+"geometry":{"type": "Point","coordinates": [-122.2303328, 38.0661815]}},
+{ "type":"Feature","properties": 
+{"date-time":"2019-04-19 12:16:28 ","Battery (Volts)":"12.04","Heading(deg)":"71","GPS Speed(m/s)":"2.90691947937","Temperature(C)":"26.4","Depth(ft)":"14.5","Boatspeed(kt)":"4.3","Depth Timestamp":"1555701388.35"},
+"geometry":{"type": "Point","coordinates": [-122.2303083, 38.066196]}},
+{ "type":"Feature","properties": 
+{"date-time":"2019-04-19 12:16:29 ","Battery (Volts)":"12.074","Heading(deg)":"104","GPS Speed(m/s)":"3.19779896736","Temperature(C)":"26.3","Depth(ft)":"13.8","Boatspeed(kt)":"4.6","Depth Timestamp":"1555701389.29"},
+"geometry":{"type": "Point","coordinates": [-122.2302785, 38.0661918]}},
+{ "type":"Feature","properties": 
+{"date-time":"2019-04-19 12:16:30 ","Battery (Volts)":"12.062","Heading(deg)":"111","GPS Speed(m/s)":"3.02144908905","Temperature(C)":"26.3","Depth(ft)":"10.8","Boatspeed(kt)":"4.6","Depth Timestamp":"1555701390.38"},
+"geometry":{"type": "Point","coordinates": [-122.2302516, 38.0661849]}},
+{ "type":"Feature","properties": 
+{"date-time":"2019-04-19 12:16:31 ","Battery (Volts)":"12.069","Heading(deg)":"138","GPS Speed(m/s)":"2.91344165802","Temperature(C)":"26.1","Depth(ft)":"9.8","Boatspeed(kt)":"5.2","Depth Timestamp":"1555701391.34"},
+"geometry":{"type": "Point","coordinates": [-122.2302266, 38.0661685]}},
+{ "type":"Feature","properties": 
+{"date-time":"2019-04-19 12:16:32 ","Battery (Volts)":"12.081","Heading(deg)":"159","GPS Speed(m/s)":"2.82300496101","Temperature(C)":"26.1","Depth(ft)":"9.3","Boatspeed(kt)":"5.2","Depth Timestamp":"1555701392.28"},
+"geometry":{"type": "Point","coordinates": [-122.2302191, 38.0661541]}},
+{ "type":"Feature","properties": 
+{"date-time":"2019-04-19 12:16:33 ","Battery (Volts)":"12.045","Heading(deg)":"205","GPS Speed(m/s)":"2.84860396385","Temperature(C)":"26.0","Depth(ft)":"9.0","Boatspeed(kt)":"4.3","Depth Timestamp":"1555701393.37"},
+"geometry":{"type": "Point","coordinates": [-122.2302272, 38.0661272]}}]}
