@@ -1365,4 +1365,364 @@
 "geometry":{"type": "Point","coordinates": [-121.9805878, 37.9577685]}},
 { "type":"Feature","properties": 
 {"date-time":"2022-07-01 13:15:11 ","Battery (Volts)":"12.16","Heading (deg)":"185","GPS Heading(deg)":"153.32","GPS Speed(m/s)":"0.36","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706510.89","Tide station9415143 (m) ":"0.709047273194"},
-"geometry":{"type": "Point","coordinates": [-121.9805867, 37.9577653]}}]}
+"geometry":{"type": "Point","coordinates": [-121.9805867, 37.9577653]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:12 ","Battery (Volts)":"12.133","Heading (deg)":"199","GPS Heading(deg)":"150.67","GPS Speed(m/s)":"0.15","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706511.89","Tide station9415143 (m) ":"0.709142927378"},
+"geometry":{"type": "Point","coordinates": [-121.9805855, 37.9577638]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:13 ","Battery (Volts)":"12.155","Heading (deg)":"186","GPS Heading(deg)":"181.76","GPS Speed(m/s)":"0.89","Temperature(C)":"26.5","Depth(ft)":"2.5","Boatspeed(kt)":"999","Depth Timestamp":"1656706512.99","Tide station9415143 (m) ":"0.709236859272"},
+"geometry":{"type": "Point","coordinates": [-121.9805862, 37.9577566]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:14 ","Battery (Volts)":"12.146","Heading (deg)":"182","GPS Heading(deg)":"178.76","GPS Speed(m/s)":"1.24","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706513.98","Tide station9415143 (m) ":"0.709330900156"},
+"geometry":{"type": "Point","coordinates": [-121.9805865, 37.9577464]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:15 ","Battery (Volts)":"12.138","Heading (deg)":"185","GPS Heading(deg)":"182.28","GPS Speed(m/s)":"1.14","Temperature(C)":"26.5","Depth(ft)":"2.5","Boatspeed(kt)":"999","Depth Timestamp":"1656706514.95","Tide station9415143 (m) ":"0.709425057394"},
+"geometry":{"type": "Point","coordinates": [-121.9805867, 37.9577347]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:16 ","Battery (Volts)":"12.145","Heading (deg)":"190","GPS Heading(deg)":"185.46","GPS Speed(m/s)":"1.35","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706515.93","Tide station9415143 (m) ":"0.709519510811"},
+"geometry":{"type": "Point","coordinates": [-121.9805887, 37.9577252]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:17 ","Battery (Volts)":"12.154","Heading (deg)":"194","GPS Heading(deg)":"191.56","GPS Speed(m/s)":"0.89","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706516.9","Tide station9415143 (m) ":"0.70961403355"},
+"geometry":{"type": "Point","coordinates": [-121.9805912, 37.9577158]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:18 ","Battery (Volts)":"12.144","Heading (deg)":"194","GPS Heading(deg)":"195.65","GPS Speed(m/s)":"0.31","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706517.88","Tide station9415143 (m) ":"0.709708347283"},
+"geometry":{"type": "Point","coordinates": [-121.9805942, 37.9577109]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:19 ","Battery (Volts)":"12.147","Heading (deg)":"189","GPS Heading(deg)":"195.28","GPS Speed(m/s)":"0.73","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706518.99","Tide station9415143 (m) ":"0.709802788328"},
+"geometry":{"type": "Point","coordinates": [-121.9805969, 37.9577066]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:20 ","Battery (Volts)":"12.154","Heading (deg)":"185","GPS Heading(deg)":"193.94","GPS Speed(m/s)":"0.95","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706519.97","Tide station9415143 (m) ":"0.709897378878"},
+"geometry":{"type": "Point","coordinates": [-121.9805995, 37.9576994]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:21 ","Battery (Volts)":"12.14","Heading (deg)":"181","GPS Heading(deg)":"190.68","GPS Speed(m/s)":"0.27","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706520.94","Tide station9415143 (m) ":"0.709991792722"},
+"geometry":{"type": "Point","coordinates": [-121.9806011, 37.9576943]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:22 ","Battery (Volts)":"12.129","Heading (deg)":"180","GPS Heading(deg)":"188.78","GPS Speed(m/s)":"0.35","Temperature(C)":"26.5","Depth(ft)":"2.5","Boatspeed(kt)":"999","Depth Timestamp":"1656706521.92","Tide station9415143 (m) ":"0.71008616265"},
+"geometry":{"type": "Point","coordinates": [-121.9806012, 37.9576906]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:23 ","Battery (Volts)":"12.091","Heading (deg)":"182","GPS Heading(deg)":"188.78","GPS Speed(m/s)":"0.58","Temperature(C)":"26.5","Depth(ft)":"2.6","Boatspeed(kt)":"999","Depth Timestamp":"1656706522.89","Tide station9415143 (m) ":"0.710180646383"},
+"geometry":{"type": "Point","coordinates": [-121.9806015, 37.9576868]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:24 ","Battery (Volts)":"12.086","Heading (deg)":"183","GPS Heading(deg)":"187.28","GPS Speed(m/s)":"1.38","Temperature(C)":"26.5","Depth(ft)":"2.6","Boatspeed(kt)":"999","Depth Timestamp":"1656706523.89","Tide station9415143 (m) ":"0.710275159394"},
+"geometry":{"type": "Point","coordinates": [-121.9806025, 37.9576779]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:25 ","Battery (Volts)":"12.082","Heading (deg)":"188","GPS Heading(deg)":"187.55","GPS Speed(m/s)":"1.54","Temperature(C)":"26.5","Depth(ft)":"2.6","Boatspeed(kt)":"999","Depth Timestamp":"1656706524.99","Tide station9415143 (m) ":"0.710369569461"},
+"geometry":{"type": "Point","coordinates": [-121.9806042, 37.9576634]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:26 ","Battery (Volts)":"12.108","Heading (deg)":"194","GPS Heading(deg)":"192.69","GPS Speed(m/s)":"1.47","Temperature(C)":"26.5","Depth(ft)":"2.6","Boatspeed(kt)":"999","Depth Timestamp":"1656706525.98","Tide station9415143 (m) ":"0.710464015794"},
+"geometry":{"type": "Point","coordinates": [-121.980607, 37.9576499]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:27 ","Battery (Volts)":"12.114","Heading (deg)":"197","GPS Heading(deg)":"198.09","GPS Speed(m/s)":"1.23","Temperature(C)":"26.5","Depth(ft)":"2.5","Boatspeed(kt)":"999","Depth Timestamp":"1656706526.94","Tide station9415143 (m) ":"0.710558463922"},
+"geometry":{"type": "Point","coordinates": [-121.9806112, 37.9576384]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:28 ","Battery (Volts)":"12.117","Heading (deg)":"199","GPS Heading(deg)":"203.3","GPS Speed(m/s)":"1.08","Temperature(C)":"26.5","Depth(ft)":"2.5","Boatspeed(kt)":"999","Depth Timestamp":"1656706527.91","Tide station9415143 (m) ":"0.710652932639"},
+"geometry":{"type": "Point","coordinates": [-121.9806153, 37.9576291]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:29 ","Battery (Volts)":"12.123","Heading (deg)":"197","GPS Heading(deg)":"203.11","GPS Speed(m/s)":"1.13","Temperature(C)":"26.5","Depth(ft)":"2.5","Boatspeed(kt)":"999","Depth Timestamp":"1656706528.89","Tide station9415143 (m) ":"0.710747253928"},
+"geometry":{"type": "Point","coordinates": [-121.9806198, 37.95762]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:30 ","Battery (Volts)":"12.138","Heading (deg)":"194","GPS Heading(deg)":"197.07","GPS Speed(m/s)":"1.08","Temperature(C)":"26.5","Depth(ft)":"2.5","Boatspeed(kt)":"999","Depth Timestamp":"1656706530.0","Tide station9415143 (m) ":"0.710841698278"},
+"geometry":{"type": "Point","coordinates": [-121.9806239, 37.9576099]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:31 ","Battery (Volts)":"12.132","Heading (deg)":"192","GPS Heading(deg)":"197.33","GPS Speed(m/s)":"0.7","Temperature(C)":"26.5","Depth(ft)":"2.5","Boatspeed(kt)":"999","Depth Timestamp":"1656706530.98","Tide station9415143 (m) ":"0.710936264933"},
+"geometry":{"type": "Point","coordinates": [-121.9806264, 37.9576019]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:32 ","Battery (Volts)":"12.122","Heading (deg)":"192","GPS Heading(deg)":"198.51","GPS Speed(m/s)":"0.63","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706531.95","Tide station9415143 (m) ":"0.711030528517"},
+"geometry":{"type": "Point","coordinates": [-121.980628, 37.9575967]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:33 ","Battery (Volts)":"12.122","Heading (deg)":"192","GPS Heading(deg)":"200.81","GPS Speed(m/s)":"0.53","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706532.94","Tide station9415143 (m) ":"0.711125009511"},
+"geometry":{"type": "Point","coordinates": [-121.9806298, 37.9575917]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:34 ","Battery (Volts)":"12.116","Heading (deg)":"191","GPS Heading(deg)":"193.53","GPS Speed(m/s)":"1.14","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706533.92","Tide station9415143 (m) ":"0.711220885167"},
+"geometry":{"type": "Point","coordinates": [-121.9806323, 37.9575833]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:35 ","Battery (Volts)":"12.113","Heading (deg)":"192","GPS Heading(deg)":"190.5","GPS Speed(m/s)":"1.26","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706534.89","Tide station9415143 (m) ":"0.711314204589"},
+"geometry":{"type": "Point","coordinates": [-121.9806349, 37.9575718]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:36 ","Battery (Volts)":"12.117","Heading (deg)":"194","GPS Heading(deg)":"195.67","GPS Speed(m/s)":"1.16","Temperature(C)":"26.5","Depth(ft)":"2.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706536.01","Tide station9415143 (m) ":"0.71140852805"},
+"geometry":{"type": "Point","coordinates": [-121.9806384, 37.9575605]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:37 ","Battery (Volts)":"12.114","Heading (deg)":"194","GPS Heading(deg)":"195.03","GPS Speed(m/s)":"1.1","Temperature(C)":"26.5","Depth(ft)":"2.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706536.99","Tide station9415143 (m) ":"0.711502905156"},
+"geometry":{"type": "Point","coordinates": [-121.9806419, 37.9575497]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:38 ","Battery (Volts)":"12.129","Heading (deg)":"194","GPS Heading(deg)":"192.27","GPS Speed(m/s)":"1.13","Temperature(C)":"26.5","Depth(ft)":"2.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706537.96","Tide station9415143 (m) ":"0.711597229278"},
+"geometry":{"type": "Point","coordinates": [-121.980645, 37.9575389]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:39 ","Battery (Volts)":"12.134","Heading (deg)":"195","GPS Heading(deg)":"192.52","GPS Speed(m/s)":"1.02","Temperature(C)":"26.5","Depth(ft)":"2.1","Boatspeed(kt)":"999","Depth Timestamp":"1656706538.94","Tide station9415143 (m) ":"0.711691679956"},
+"geometry":{"type": "Point","coordinates": [-121.9806483, 37.9575284]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:40 ","Battery (Volts)":"12.132","Heading (deg)":"195","GPS Heading(deg)":"196.44","GPS Speed(m/s)":"1.12","Temperature(C)":"26.5","Depth(ft)":"2.0","Boatspeed(kt)":"999","Depth Timestamp":"1656706539.91","Tide station9415143 (m) ":"0.711786088417"},
+"geometry":{"type": "Point","coordinates": [-121.9806523, 37.957518]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:41 ","Battery (Volts)":"12.147","Heading (deg)":"193","GPS Heading(deg)":"194.69","GPS Speed(m/s)":"1.02","Temperature(C)":"26.5","Depth(ft)":"2.1","Boatspeed(kt)":"999","Depth Timestamp":"1656706540.89","Tide station9415143 (m) ":"0.711880597461"},
+"geometry":{"type": "Point","coordinates": [-121.980656, 37.9575079]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:42 ","Battery (Volts)":"12.148","Heading (deg)":"192","GPS Heading(deg)":"191.86","GPS Speed(m/s)":"1.47","Temperature(C)":"26.5","Depth(ft)":"1.9","Boatspeed(kt)":"999","Depth Timestamp":"1656706542.0","Tide station9415143 (m) ":"0.711975037844"},
+"geometry":{"type": "Point","coordinates": [-121.9806595, 37.957495]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:43 ","Battery (Volts)":"12.15","Heading (deg)":"194","GPS Heading(deg)":"189.05","GPS Speed(m/s)":"1.35","Temperature(C)":"26.4","Depth(ft)":"2.0","Boatspeed(kt)":"999","Depth Timestamp":"1656706542.98","Tide station9415143 (m) ":"0.712069716794"},
+"geometry":{"type": "Point","coordinates": [-121.9806629, 37.9574806]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:44 ","Battery (Volts)":"12.146","Heading (deg)":"198","GPS Heading(deg)":"189.18","GPS Speed(m/s)":"0.8","Temperature(C)":"26.4","Depth(ft)":"1.8","Boatspeed(kt)":"999","Depth Timestamp":"1656706543.95","Tide station9415143 (m) ":"0.712163880928"},
+"geometry":{"type": "Point","coordinates": [-121.9806657, 37.9574685]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:45 ","Battery (Volts)":"12.154","Heading (deg)":"202","GPS Heading(deg)":"198.35","GPS Speed(m/s)":"0.59","Temperature(C)":"26.4","Depth(ft)":"1.7","Boatspeed(kt)":"999","Depth Timestamp":"1656706544.93","Tide station9415143 (m) ":"0.712258364472"},
+"geometry":{"type": "Point","coordinates": [-121.9806681, 37.9574621]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:46 ","Battery (Volts)":"12.149","Heading (deg)":"204","GPS Heading(deg)":"202.18","GPS Speed(m/s)":"0.88","Temperature(C)":"26.5","Depth(ft)":"1.7","Boatspeed(kt)":"999","Depth Timestamp":"1656706545.9","Tide station9415143 (m) ":"0.712352846883"},
+"geometry":{"type": "Point","coordinates": [-121.9806711, 37.9574563]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:47 ","Battery (Volts)":"12.158","Heading (deg)":"200","GPS Heading(deg)":"198.01","GPS Speed(m/s)":"0.75","Temperature(C)":"26.5","Depth(ft)":"1.7","Boatspeed(kt)":"999","Depth Timestamp":"1656706547.02","Tide station9415143 (m) ":"0.712447268472"},
+"geometry":{"type": "Point","coordinates": [-121.9806746, 37.9574483]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:48 ","Battery (Volts)":"12.152","Heading (deg)":"196","GPS Heading(deg)":"194.8","GPS Speed(m/s)":"0.6","Temperature(C)":"26.5","Depth(ft)":"1.7","Boatspeed(kt)":"999","Depth Timestamp":"1656706548.0","Tide station9415143 (m) ":"0.712541760044"},
+"geometry":{"type": "Point","coordinates": [-121.9806767, 37.9574416]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:49 ","Battery (Volts)":"12.149","Heading (deg)":"194","GPS Heading(deg)":"190.96","GPS Speed(m/s)":"0.69","Temperature(C)":"26.5","Depth(ft)":"1.6","Boatspeed(kt)":"999","Depth Timestamp":"1656706548.97","Tide station9415143 (m) ":"0.71263613545"},
+"geometry":{"type": "Point","coordinates": [-121.9806785, 37.9574356]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:50 ","Battery (Volts)":"12.136","Heading (deg)":"193","GPS Heading(deg)":"191.33","GPS Speed(m/s)":"0.78","Temperature(C)":"26.5","Depth(ft)":"1.6","Boatspeed(kt)":"999","Depth Timestamp":"1656706549.95","Tide station9415143 (m) ":"0.712731259706"},
+"geometry":{"type": "Point","coordinates": [-121.9806803, 37.9574288]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:51 ","Battery (Volts)":"12.14","Heading (deg)":"193","GPS Heading(deg)":"192.74","GPS Speed(m/s)":"0.84","Temperature(C)":"26.5","Depth(ft)":"1.5","Boatspeed(kt)":"999","Depth Timestamp":"1656706550.92","Tide station9415143 (m) ":"0.7128249536"},
+"geometry":{"type": "Point","coordinates": [-121.9806825, 37.9574216]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:52 ","Battery (Volts)":"12.131","Heading (deg)":"193","GPS Heading(deg)":"192.08","GPS Speed(m/s)":"0.93","Temperature(C)":"26.5","Depth(ft)":"1.5","Boatspeed(kt)":"999","Depth Timestamp":"1656706551.9","Tide station9415143 (m) ":"0.712919510433"},
+"geometry":{"type": "Point","coordinates": [-121.9806848, 37.9574138]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:53 ","Battery (Volts)":"12.134","Heading (deg)":"192","GPS Heading(deg)":"190.94","GPS Speed(m/s)":"0.96","Temperature(C)":"26.5","Depth(ft)":"1.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706553.01","Tide station9415143 (m) ":"0.713013950439"},
+"geometry":{"type": "Point","coordinates": [-121.980687, 37.9574054]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:54 ","Battery (Volts)":"12.131","Heading (deg)":"193","GPS Heading(deg)":"191.92","GPS Speed(m/s)":"1.34","Temperature(C)":"26.5","Depth(ft)":"1.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706553.99","Tide station9415143 (m) ":"0.713108303083"},
+"geometry":{"type": "Point","coordinates": [-121.9806897, 37.9573953]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:55 ","Battery (Volts)":"12.134","Heading (deg)":"194","GPS Heading(deg)":"191.43","GPS Speed(m/s)":"1.02","Temperature(C)":"26.5","Depth(ft)":"1.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706554.96","Tide station9415143 (m) ":"0.713202745828"},
+"geometry":{"type": "Point","coordinates": [-121.9806925, 37.9573851]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:56 ","Battery (Volts)":"12.134","Heading (deg)":"194","GPS Heading(deg)":"192.97","GPS Speed(m/s)":"1.06","Temperature(C)":"26.5","Depth(ft)":"1.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706555.94","Tide station9415143 (m) ":"0.713297390117"},
+"geometry":{"type": "Point","coordinates": [-121.9806953, 37.9573759]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:57 ","Battery (Volts)":"12.14","Heading (deg)":"194","GPS Heading(deg)":"191.87","GPS Speed(m/s)":"1.06","Temperature(C)":"26.5","Depth(ft)":"1.2","Boatspeed(kt)":"999","Depth Timestamp":"1656706556.93","Tide station9415143 (m) ":"0.713391730011"},
+"geometry":{"type": "Point","coordinates": [-121.9806982, 37.9573668]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:58 ","Battery (Volts)":"12.131","Heading (deg)":"194","GPS Heading(deg)":"191.12","GPS Speed(m/s)":"1.05","Temperature(C)":"26.6","Depth(ft)":"1.2","Boatspeed(kt)":"999","Depth Timestamp":"1656706558.03","Tide station9415143 (m) ":"0.713486078217"},
+"geometry":{"type": "Point","coordinates": [-121.9807004, 37.9573578]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:15:59 ","Battery (Volts)":"12.136","Heading (deg)":"195","GPS Heading(deg)":"195.48","GPS Speed(m/s)":"1.04","Temperature(C)":"26.6","Depth(ft)":"1.2","Boatspeed(kt)":"999","Depth Timestamp":"1656706559.0","Tide station9415143 (m) ":"0.713581028128"},
+"geometry":{"type": "Point","coordinates": [-121.9807035, 37.9573487]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:00 ","Battery (Volts)":"12.132","Heading (deg)":"195","GPS Heading(deg)":"194.26","GPS Speed(m/s)":"0.97","Temperature(C)":"26.5","Depth(ft)":"1.2","Boatspeed(kt)":"999","Depth Timestamp":"1656706559.98","Tide station9415143 (m) ":"0.713675518661"},
+"geometry":{"type": "Point","coordinates": [-121.9807063, 37.9573402]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:01 ","Battery (Volts)":"12.066","Heading (deg)":"158","GPS Heading(deg)":"181.93","GPS Speed(m/s)":"0.42","Temperature(C)":"26.5","Depth(ft)":"1.2","Boatspeed(kt)":"999","Depth Timestamp":"1656706560.95","Tide station9415143 (m) ":"0.713769604217"},
+"geometry":{"type": "Point","coordinates": [-121.9807045, 37.9573354]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:02 ","Battery (Volts)":"12.117","Heading (deg)":"109","GPS Heading(deg)":"159.59","GPS Speed(m/s)":"0.96","Temperature(C)":"26.6","Depth(ft)":"1.2","Boatspeed(kt)":"999","Depth Timestamp":"1656706561.93","Tide station9415143 (m) ":"0.713864060278"},
+"geometry":{"type": "Point","coordinates": [-121.9807019, 37.9573397]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:03 ","Battery (Volts)":"12.089","Heading (deg)":"138","GPS Heading(deg)":"110.13","GPS Speed(m/s)":"0.73","Temperature(C)":"26.6","Depth(ft)":"1.2","Boatspeed(kt)":"999","Depth Timestamp":"1656706562.91","Tide station9415143 (m) ":"0.713958257939"},
+"geometry":{"type": "Point","coordinates": [-121.9806954, 37.9573414]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:04 ","Battery (Volts)":"12.084","Heading (deg)":"148","GPS Heading(deg)":"146.54","GPS Speed(m/s)":"1.19","Temperature(C)":"26.6","Depth(ft)":"1.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706564.02","Tide station9415143 (m) ":"0.714052666494"},
+"geometry":{"type": "Point","coordinates": [-121.9806875, 37.957334]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:05 ","Battery (Volts)":"12.076","Heading (deg)":"116","GPS Heading(deg)":"128.76","GPS Speed(m/s)":"1.07","Temperature(C)":"26.6","Depth(ft)":"1.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706565.0","Tide station9415143 (m) ":"0.714147871217"},
+"geometry":{"type": "Point","coordinates": [-121.9806768, 37.9573286]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:06 ","Battery (Volts)":"12.069","Heading (deg)":"79","GPS Heading(deg)":"85.96","GPS Speed(m/s)":"0.5","Temperature(C)":"26.6","Depth(ft)":"1.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706565.97","Tide station9415143 (m) ":"0.71424199285"},
+"geometry":{"type": "Point","coordinates": [-121.9806713, 37.9573284]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:07 ","Battery (Volts)":"12.128","Heading (deg)":"20","GPS Heading(deg)":"335.37","GPS Speed(m/s)":"0.17","Temperature(C)":"26.6","Depth(ft)":"1.2","Boatspeed(kt)":"999","Depth Timestamp":"1656706566.95","Tide station9415143 (m) ":"0.714336330761"},
+"geometry":{"type": "Point","coordinates": [-121.9806721, 37.9573297]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:08 ","Battery (Volts)":"12.128","Heading (deg)":"5","GPS Heading(deg)":"5.17","GPS Speed(m/s)":"0.35","Temperature(C)":"26.6","Depth(ft)":"1.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706567.92","Tide station9415143 (m) ":"0.71443069965"},
+"geometry":{"type": "Point","coordinates": [-121.9806716, 37.9573328]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:09 ","Battery (Volts)":"12.128","Heading (deg)":"7","GPS Heading(deg)":"10.43","GPS Speed(m/s)":"0.9","Temperature(C)":"26.6","Depth(ft)":"1.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706569.04","Tide station9415143 (m) ":"0.714525101972"},
+"geometry":{"type": "Point","coordinates": [-121.9806697, 37.9573405]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:10 ","Battery (Volts)":"12.116","Heading (deg)":"8","GPS Heading(deg)":"10.83","GPS Speed(m/s)":"1.01","Temperature(C)":"26.6","Depth(ft)":"1.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706570.01","Tide station9415143 (m) ":"0.7146197099"},
+"geometry":{"type": "Point","coordinates": [-121.9806676, 37.9573489]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:11 ","Battery (Volts)":"12.122","Heading (deg)":"8","GPS Heading(deg)":"7.81","GPS Speed(m/s)":"1.04","Temperature(C)":"26.6","Depth(ft)":"1.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706570.99","Tide station9415143 (m) ":"0.714714050172"},
+"geometry":{"type": "Point","coordinates": [-121.9806661, 37.9573573]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:12 ","Battery (Volts)":"12.12","Heading (deg)":"10","GPS Heading(deg)":"8.95","GPS Speed(m/s)":"1.1","Temperature(C)":"26.6","Depth(ft)":"1.2","Boatspeed(kt)":"999","Depth Timestamp":"1656706571.96","Tide station9415143 (m) ":"0.714809072239"},
+"geometry":{"type": "Point","coordinates": [-121.9806641, 37.9573661]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:13 ","Battery (Volts)":"12.119","Heading (deg)":"11","GPS Heading(deg)":"14.08","GPS Speed(m/s)":"1.01","Temperature(C)":"26.6","Depth(ft)":"1.2","Boatspeed(kt)":"999","Depth Timestamp":"1656706572.94","Tide station9415143 (m) ":"0.71490362435"},
+"geometry":{"type": "Point","coordinates": [-121.9806613, 37.9573746]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:14 ","Battery (Volts)":"12.128","Heading (deg)":"10","GPS Heading(deg)":"14.04","GPS Speed(m/s)":"1.02","Temperature(C)":"26.6","Depth(ft)":"1.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706574.04","Tide station9415143 (m) ":"0.714997294256"},
+"geometry":{"type": "Point","coordinates": [-121.9806585, 37.9573832]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:15 ","Battery (Volts)":"12.115","Heading (deg)":"9","GPS Heading(deg)":"12.23","GPS Speed(m/s)":"1.06","Temperature(C)":"26.6","Depth(ft)":"1.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706575.03","Tide station9415143 (m) ":"0.715091777989"},
+"geometry":{"type": "Point","coordinates": [-121.980656, 37.9573924]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:16 ","Battery (Volts)":"12.126","Heading (deg)":"10","GPS Heading(deg)":"8.14","GPS Speed(m/s)":"1.13","Temperature(C)":"26.6","Depth(ft)":"1.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706576.01","Tide station9415143 (m) ":"0.715186555161"},
+"geometry":{"type": "Point","coordinates": [-121.9806541, 37.9574019]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:17 ","Battery (Volts)":"12.125","Heading (deg)":"13","GPS Heading(deg)":"11.36","GPS Speed(m/s)":"1.08","Temperature(C)":"26.6","Depth(ft)":"1.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706576.98","Tide station9415143 (m) ":"0.715281012639"},
+"geometry":{"type": "Point","coordinates": [-121.9806519, 37.9574113]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:18 ","Battery (Volts)":"12.123","Heading (deg)":"15","GPS Heading(deg)":"16.38","GPS Speed(m/s)":"1.03","Temperature(C)":"26.6","Depth(ft)":"1.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706577.96","Tide station9415143 (m) ":"0.7153757186"},
+"geometry":{"type": "Point","coordinates": [-121.9806485, 37.9574204]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:19 ","Battery (Volts)":"12.13","Heading (deg)":"14","GPS Heading(deg)":"18.05","GPS Speed(m/s)":"1.06","Temperature(C)":"26.6","Depth(ft)":"1.5","Boatspeed(kt)":"999","Depth Timestamp":"1656706578.93","Tide station9415143 (m) ":"0.715469563606"},
+"geometry":{"type": "Point","coordinates": [-121.9806447, 37.9574293]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:20 ","Battery (Volts)":"12.126","Heading (deg)":"11","GPS Heading(deg)":"15.5","GPS Speed(m/s)":"0.94","Temperature(C)":"26.6","Depth(ft)":"1.6","Boatspeed(kt)":"999","Depth Timestamp":"1656706580.05","Tide station9415143 (m) ":"0.715564042522"},
+"geometry":{"type": "Point","coordinates": [-121.9806415, 37.9574376]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:21 ","Battery (Volts)":"12.122","Heading (deg)":"9","GPS Heading(deg)":"13.31","GPS Speed(m/s)":"0.97","Temperature(C)":"26.6","Depth(ft)":"1.6","Boatspeed(kt)":"999","Depth Timestamp":"1656706581.02","Tide station9415143 (m) ":"0.715658313189"},
+"geometry":{"type": "Point","coordinates": [-121.9806392, 37.9574458]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:22 ","Battery (Volts)":"12.131","Heading (deg)":"9","GPS Heading(deg)":"14.79","GPS Speed(m/s)":"0.91","Temperature(C)":"26.6","Depth(ft)":"1.6","Boatspeed(kt)":"999","Depth Timestamp":"1656706582.0","Tide station9415143 (m) ":"0.715752695867"},
+"geometry":{"type": "Point","coordinates": [-121.9806365, 37.957454]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:23 ","Battery (Volts)":"12.122","Heading (deg)":"8","GPS Heading(deg)":"14.48","GPS Speed(m/s)":"0.91","Temperature(C)":"26.6","Depth(ft)":"1.6","Boatspeed(kt)":"999","Depth Timestamp":"1656706582.97","Tide station9415143 (m) ":"0.71584776355"},
+"geometry":{"type": "Point","coordinates": [-121.980634, 37.9574621]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:24 ","Battery (Volts)":"12.122","Heading (deg)":"7","GPS Heading(deg)":"11.0","GPS Speed(m/s)":"1.05","Temperature(C)":"26.6","Depth(ft)":"1.7","Boatspeed(kt)":"999","Depth Timestamp":"1656706583.95","Tide station9415143 (m) ":"0.715941718961"},
+"geometry":{"type": "Point","coordinates": [-121.9806318, 37.9574709]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:25 ","Battery (Volts)":"12.137","Heading (deg)":"8","GPS Heading(deg)":"14.12","GPS Speed(m/s)":"1.0","Temperature(C)":"26.6","Depth(ft)":"1.6","Boatspeed(kt)":"999","Depth Timestamp":"1656706584.92","Tide station9415143 (m) ":"0.716036404617"},
+"geometry":{"type": "Point","coordinates": [-121.9806292, 37.9574801]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:26 ","Battery (Volts)":"12.125","Heading (deg)":"9","GPS Heading(deg)":"12.68","GPS Speed(m/s)":"1.03","Temperature(C)":"26.6","Depth(ft)":"1.8","Boatspeed(kt)":"999","Depth Timestamp":"1656706586.04","Tide station9415143 (m) ":"0.71613108725"},
+"geometry":{"type": "Point","coordinates": [-121.9806267, 37.957489]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:27 ","Battery (Volts)":"12.131","Heading (deg)":"9","GPS Heading(deg)":"12.28","GPS Speed(m/s)":"1.0","Temperature(C)":"26.7","Depth(ft)":"1.8","Boatspeed(kt)":"999","Depth Timestamp":"1656706587.01","Tide station9415143 (m) ":"0.7162250743"},
+"geometry":{"type": "Point","coordinates": [-121.9806242, 37.9574979]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:28 ","Battery (Volts)":"12.119","Heading (deg)":"9","GPS Heading(deg)":"7.67","GPS Speed(m/s)":"1.09","Temperature(C)":"26.6","Depth(ft)":"2.0","Boatspeed(kt)":"999","Depth Timestamp":"1656706587.99","Tide station9415143 (m) ":"0.716319765811"},
+"geometry":{"type": "Point","coordinates": [-121.9806222, 37.9575068]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:29 ","Battery (Volts)":"12.112","Heading (deg)":"13","GPS Heading(deg)":"12.67","GPS Speed(m/s)":"0.93","Temperature(C)":"26.6","Depth(ft)":"2.0","Boatspeed(kt)":"999","Depth Timestamp":"1656706588.96","Tide station9415143 (m) ":"0.716414384789"},
+"geometry":{"type": "Point","coordinates": [-121.98062, 37.9575156]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:30 ","Battery (Volts)":"12.126","Heading (deg)":"14","GPS Heading(deg)":"17.34","GPS Speed(m/s)":"0.96","Temperature(C)":"26.6","Depth(ft)":"2.0","Boatspeed(kt)":"999","Depth Timestamp":"1656706589.94","Tide station9415143 (m) ":"0.7165086003"},
+"geometry":{"type": "Point","coordinates": [-121.9806169, 37.9575238]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:31 ","Battery (Volts)":"12.126","Heading (deg)":"13","GPS Heading(deg)":"14.13","GPS Speed(m/s)":"0.95","Temperature(C)":"26.6","Depth(ft)":"2.1","Boatspeed(kt)":"999","Depth Timestamp":"1656706591.06","Tide station9415143 (m) ":"0.716602818267"},
+"geometry":{"type": "Point","coordinates": [-121.9806141, 37.9575318]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:32 ","Battery (Volts)":"12.139","Heading (deg)":"13","GPS Heading(deg)":"15.38","GPS Speed(m/s)":"1.0","Temperature(C)":"26.6","Depth(ft)":"2.1","Boatspeed(kt)":"999","Depth Timestamp":"1656706592.03","Tide station9415143 (m) ":"0.716698006744"},
+"geometry":{"type": "Point","coordinates": [-121.9806111, 37.9575404]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:33 ","Battery (Volts)":"12.122","Heading (deg)":"13","GPS Heading(deg)":"15.2","GPS Speed(m/s)":"0.94","Temperature(C)":"26.6","Depth(ft)":"2.2","Boatspeed(kt)":"999","Depth Timestamp":"1656706593.01","Tide station9415143 (m) ":"0.716791642367"},
+"geometry":{"type": "Point","coordinates": [-121.9806083, 37.9575489]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:34 ","Battery (Volts)":"12.119","Heading (deg)":"12","GPS Heading(deg)":"15.04","GPS Speed(m/s)":"1.01","Temperature(C)":"26.6","Depth(ft)":"2.2","Boatspeed(kt)":"999","Depth Timestamp":"1656706594.0","Tide station9415143 (m) ":"0.716886278911"},
+"geometry":{"type": "Point","coordinates": [-121.9806054, 37.9575572]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:35 ","Battery (Volts)":"12.124","Heading (deg)":"11","GPS Heading(deg)":"16.37","GPS Speed(m/s)":"1.08","Temperature(C)":"26.6","Depth(ft)":"2.2","Boatspeed(kt)":"999","Depth Timestamp":"1656706594.97","Tide station9415143 (m) ":"0.716980652144"},
+"geometry":{"type": "Point","coordinates": [-121.980602, 37.9575662]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:36 ","Battery (Volts)":"12.127","Heading (deg)":"9","GPS Heading(deg)":"13.4","GPS Speed(m/s)":"1.05","Temperature(C)":"26.6","Depth(ft)":"2.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706595.95","Tide station9415143 (m) ":"0.717074798522"},
+"geometry":{"type": "Point","coordinates": [-121.980599, 37.9575755]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:37 ","Battery (Volts)":"12.112","Heading (deg)":"8","GPS Heading(deg)":"10.74","GPS Speed(m/s)":"0.93","Temperature(C)":"26.6","Depth(ft)":"2.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706597.06","Tide station9415143 (m) ":"0.717169485406"},
+"geometry":{"type": "Point","coordinates": [-121.9805967, 37.9575846]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:38 ","Battery (Volts)":"12.126","Heading (deg)":"8","GPS Heading(deg)":"10.9","GPS Speed(m/s)":"1.02","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706598.04","Tide station9415143 (m) ":"0.717264302811"},
+"geometry":{"type": "Point","coordinates": [-121.9805945, 37.9575934]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:39 ","Battery (Volts)":"12.126","Heading (deg)":"9","GPS Heading(deg)":"12.12","GPS Speed(m/s)":"1.03","Temperature(C)":"26.5","Depth(ft)":"2.6","Boatspeed(kt)":"999","Depth Timestamp":"1656706599.01","Tide station9415143 (m) ":"0.717359001028"},
+"geometry":{"type": "Point","coordinates": [-121.9805922, 37.9576022]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:40 ","Battery (Volts)":"12.117","Heading (deg)":"9","GPS Heading(deg)":"14.52","GPS Speed(m/s)":"1.01","Temperature(C)":"26.5","Depth(ft)":"2.5","Boatspeed(kt)":"999","Depth Timestamp":"1656706599.99","Tide station9415143 (m) ":"0.717452912522"},
+"geometry":{"type": "Point","coordinates": [-121.9805895, 37.957611]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:41 ","Battery (Volts)":"12.12","Heading (deg)":"9","GPS Heading(deg)":"14.01","GPS Speed(m/s)":"1.07","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706600.96","Tide station9415143 (m) ":"0.717547054367"},
+"geometry":{"type": "Point","coordinates": [-121.9805866, 37.9576201]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:42 ","Battery (Volts)":"12.124","Heading (deg)":"8","GPS Heading(deg)":"13.47","GPS Speed(m/s)":"0.98","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706601.94","Tide station9415143 (m) ":"0.717641927211"},
+"geometry":{"type": "Point","coordinates": [-121.9805838, 37.9576289]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:43 ","Battery (Volts)":"12.121","Heading (deg)":"7","GPS Heading(deg)":"12.78","GPS Speed(m/s)":"0.98","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706603.06","Tide station9415143 (m) ":"0.717736134978"},
+"geometry":{"type": "Point","coordinates": [-121.9805812, 37.9576373]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:44 ","Battery (Volts)":"12.114","Heading (deg)":"7","GPS Heading(deg)":"10.72","GPS Speed(m/s)":"0.96","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706604.03","Tide station9415143 (m) ":"0.7178304506"},
+"geometry":{"type": "Point","coordinates": [-121.9805789, 37.9576457]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:45 ","Battery (Volts)":"12.106","Heading (deg)":"8","GPS Heading(deg)":"10.02","GPS Speed(m/s)":"1.06","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706605.01","Tide station9415143 (m) ":"0.717925152689"},
+"geometry":{"type": "Point","coordinates": [-121.9805768, 37.9576546]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:46 ","Battery (Volts)":"12.111","Heading (deg)":"9","GPS Heading(deg)":"12.75","GPS Speed(m/s)":"1.0","Temperature(C)":"26.5","Depth(ft)":"2.5","Boatspeed(kt)":"999","Depth Timestamp":"1656706605.98","Tide station9415143 (m) ":"0.718019709711"},
+"geometry":{"type": "Point","coordinates": [-121.980574, 37.9576634]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:47 ","Battery (Volts)":"12.112","Heading (deg)":"10","GPS Heading(deg)":"12.6","GPS Speed(m/s)":"1.01","Temperature(C)":"26.5","Depth(ft)":"2.5","Boatspeed(kt)":"999","Depth Timestamp":"1656706606.97","Tide station9415143 (m) ":"0.718114623261"},
+"geometry":{"type": "Point","coordinates": [-121.9805713, 37.957672]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:48 ","Battery (Volts)":"12.119","Heading (deg)":"10","GPS Heading(deg)":"11.28","GPS Speed(m/s)":"1.04","Temperature(C)":"26.5","Depth(ft)":"2.5","Boatspeed(kt)":"999","Depth Timestamp":"1656706608.08","Tide station9415143 (m) ":"0.71820812345"},
+"geometry":{"type": "Point","coordinates": [-121.9805689, 37.9576806]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:49 ","Battery (Volts)":"12.129","Heading (deg)":"11","GPS Heading(deg)":"14.1","GPS Speed(m/s)":"1.07","Temperature(C)":"26.5","Depth(ft)":"2.5","Boatspeed(kt)":"999","Depth Timestamp":"1656706609.07","Tide station9415143 (m) ":"0.718302858878"},
+"geometry":{"type": "Point","coordinates": [-121.980566, 37.9576898]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:50 ","Battery (Volts)":"12.127","Heading (deg)":"11","GPS Heading(deg)":"13.93","GPS Speed(m/s)":"1.02","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706610.04","Tide station9415143 (m) ":"0.718397945733"},
+"geometry":{"type": "Point","coordinates": [-121.9805628, 37.957699]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:51 ","Battery (Volts)":"12.119","Heading (deg)":"11","GPS Heading(deg)":"11.61","GPS Speed(m/s)":"0.98","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706611.01","Tide station9415143 (m) ":"0.718491767978"},
+"geometry":{"type": "Point","coordinates": [-121.9805601, 37.9577076]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:52 ","Battery (Volts)":"12.121","Heading (deg)":"10","GPS Heading(deg)":"15.86","GPS Speed(m/s)":"1.01","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706611.99","Tide station9415143 (m) ":"0.718586450233"},
+"geometry":{"type": "Point","coordinates": [-121.9805573, 37.9577159]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:53 ","Battery (Volts)":"12.122","Heading (deg)":"9","GPS Heading(deg)":"14.03","GPS Speed(m/s)":"0.9","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706612.96","Tide station9415143 (m) ":"0.718680722506"},
+"geometry":{"type": "Point","coordinates": [-121.9805547, 37.957724]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:54 ","Battery (Volts)":"12.11","Heading (deg)":"8","GPS Heading(deg)":"11.57","GPS Speed(m/s)":"0.98","Temperature(C)":"26.5","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706614.08","Tide station9415143 (m) ":"0.718775555589"},
+"geometry":{"type": "Point","coordinates": [-121.9805523, 37.9577321]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:55 ","Battery (Volts)":"12.112","Heading (deg)":"9","GPS Heading(deg)":"9.88","GPS Speed(m/s)":"0.92","Temperature(C)":"26.5","Depth(ft)":"2.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706615.06","Tide station9415143 (m) ":"0.718869625372"},
+"geometry":{"type": "Point","coordinates": [-121.9805506, 37.9577406]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:56 ","Battery (Volts)":"12.101","Heading (deg)":"35","GPS Heading(deg)":"22.78","GPS Speed(m/s)":"1.1","Temperature(C)":"26.5","Depth(ft)":"2.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706616.03","Tide station9415143 (m) ":"0.718964081339"},
+"geometry":{"type": "Point","coordinates": [-121.980545, 37.9577482]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:57 ","Battery (Volts)":"12.129","Heading (deg)":"92","GPS Heading(deg)":"73.29","GPS Speed(m/s)":"0.45","Temperature(C)":"26.6","Depth(ft)":"2.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706617.01","Tide station9415143 (m) ":"0.71905875585"},
+"geometry":{"type": "Point","coordinates": [-121.9805406, 37.9577483]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:58 ","Battery (Volts)":"12.112","Heading (deg)":"110","GPS Heading(deg)":"84.89","GPS Speed(m/s)":"0.19","Temperature(C)":"26.6","Depth(ft)":"2.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706617.98","Tide station9415143 (m) ":"0.719152787383"},
+"geometry":{"type": "Point","coordinates": [-121.9805374, 37.9577484]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:16:59 ","Battery (Volts)":"12.03","Heading (deg)":"123","GPS Heading(deg)":"112.58","GPS Speed(m/s)":"1.07","Temperature(C)":"26.6","Depth(ft)":"2.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706618.96","Tide station9415143 (m) ":"0.719247298978"},
+"geometry":{"type": "Point","coordinates": [-121.9805283, 37.9577439]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:17:00 ","Battery (Volts)":"12.133","Heading (deg)":"169","GPS Heading(deg)":"145.45","GPS Speed(m/s)":"0.63","Temperature(C)":"26.6","Depth(ft)":"2.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706620.08","Tide station9415143 (m) ":"0.719342081911"},
+"geometry":{"type": "Point","coordinates": [-121.9805255, 37.957739]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:17:01 ","Battery (Volts)":"12.133","Heading (deg)":"203","GPS Heading(deg)":"176.34","GPS Speed(m/s)":"0.07","Temperature(C)":"26.6","Depth(ft)":"2.2","Boatspeed(kt)":"999","Depth Timestamp":"1656706621.05","Tide station9415143 (m) ":"0.719435895844"},
+"geometry":{"type": "Point","coordinates": [-121.9805245, 37.9577373]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:17:02 ","Battery (Volts)":"12.103","Heading (deg)":"189","GPS Heading(deg)":"180.06","GPS Speed(m/s)":"0.58","Temperature(C)":"26.6","Depth(ft)":"2.2","Boatspeed(kt)":"999","Depth Timestamp":"1656706622.03","Tide station9415143 (m) ":"0.719530601333"},
+"geometry":{"type": "Point","coordinates": [-121.9805249, 37.9577322]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:17:03 ","Battery (Volts)":"12.114","Heading (deg)":"180","GPS Heading(deg)":"181.31","GPS Speed(m/s)":"1.0","Temperature(C)":"26.6","Depth(ft)":"2.2","Boatspeed(kt)":"999","Depth Timestamp":"1656706623.0","Tide station9415143 (m) ":"0.719624981272"},
+"geometry":{"type": "Point","coordinates": [-121.9805257, 37.9577234]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:17:04 ","Battery (Volts)":"12.099","Heading (deg)":"179","GPS Heading(deg)":"182.49","GPS Speed(m/s)":"1.03","Temperature(C)":"26.6","Depth(ft)":"2.2","Boatspeed(kt)":"999","Depth Timestamp":"1656706623.98","Tide station9415143 (m) ":"0.719719329761"},
+"geometry":{"type": "Point","coordinates": [-121.9805263, 37.9577138]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:17:05 ","Battery (Volts)":"12.113","Heading (deg)":"181","GPS Heading(deg)":"181.61","GPS Speed(m/s)":"0.96","Temperature(C)":"26.6","Depth(ft)":"2.2","Boatspeed(kt)":"999","Depth Timestamp":"1656706624.95","Tide station9415143 (m) ":"0.71981369865"},
+"geometry":{"type": "Point","coordinates": [-121.9805273, 37.9577047]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:17:06 ","Battery (Volts)":"12.114","Heading (deg)":"183","GPS Heading(deg)":"185.93","GPS Speed(m/s)":"1.03","Temperature(C)":"26.6","Depth(ft)":"2.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706626.07","Tide station9415143 (m) ":"0.719908311867"},
+"geometry":{"type": "Point","coordinates": [-121.9805285, 37.9576956]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:17:07 ","Battery (Volts)":"12.108","Heading (deg)":"185","GPS Heading(deg)":"186.83","GPS Speed(m/s)":"0.97","Temperature(C)":"26.6","Depth(ft)":"2.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706627.04","Tide station9415143 (m) ":"0.720002499044"},
+"geometry":{"type": "Point","coordinates": [-121.9805301, 37.9576873]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:17:08 ","Battery (Volts)":"12.111","Heading (deg)":"187","GPS Heading(deg)":"184.42","GPS Speed(m/s)":"1.04","Temperature(C)":"26.6","Depth(ft)":"2.3","Boatspeed(kt)":"999","Depth Timestamp":"1656706628.02","Tide station9415143 (m) ":"0.72009698155"},
+"geometry":{"type": "Point","coordinates": [-121.9805317, 37.9576788]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:17:09 ","Battery (Volts)":"12.115","Heading (deg)":"191","GPS Heading(deg)":"191.56","GPS Speed(m/s)":"1.01","Temperature(C)":"26.6","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706629.01","Tide station9415143 (m) ":"0.720191479167"},
+"geometry":{"type": "Point","coordinates": [-121.9805338, 37.9576701]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:17:10 ","Battery (Volts)":"12.113","Heading (deg)":"193","GPS Heading(deg)":"194.58","GPS Speed(m/s)":"0.96","Temperature(C)":"26.6","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706629.98","Tide station9415143 (m) ":"0.720285856367"},
+"geometry":{"type": "Point","coordinates": [-121.980537, 37.9576622]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-07-01 13:17:12 ","Battery (Volts)":"12.106","Heading (deg)":"192","GPS Heading(deg)":"191.5","GPS Speed(m/s)":"1.14","Temperature(C)":"26.6","Depth(ft)":"2.4","Boatspeed(kt)":"999","Depth Timestamp":"1656706632.08","Tide station9415143 (m) ":"0.720475103106"},
+"geometry":{"type": "Point","coordinates": [-121.980542, 37.9576459]}}]}
