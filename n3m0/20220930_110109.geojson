@@ -30,4 +30,16 @@
 "geometry":{"type": "Point","coordinates": [-122.2305339, 38.0684322]}},
 { "type":"Feature","properties": 
 {"date-time":"2022-09-30 11:01:52 ","Battery (Volts)":"12.381","Heading (deg)":"244","GPS Heading(deg)":"11.72","GPS Speed(m/s)":"0.29","Temperature(C)":"25.1","Depth(ft)":"","Boatspeed(kt)":"999","Depth Timestamp":"1664560912.51","Tide station9415143 (m) ":"0.739127118694"},
-"geometry":{"type": "Point","coordinates": [-122.2305332, 38.0684324]}}]}
+"geometry":{"type": "Point","coordinates": [-122.2305332, 38.0684324]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-09-30 11:03:50 ","Battery (Volts)":"12.366","Heading (deg)":"244","GPS Heading(deg)":"11.72","GPS Speed(m/s)":"0.09","Temperature(C)":"25.5","Depth(ft)":"","Boatspeed(kt)":"999","Depth Timestamp":"1664561030.5","Tide station9415143 (m) ":"0.742403813389"},
+"geometry":{"type": "Point","coordinates": [-122.2305605, 38.0684682]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-09-30 11:03:51 ","Battery (Volts)":"12.371","Heading (deg)":"244","GPS Heading(deg)":"11.72","GPS Speed(m/s)":"0.16","Temperature(C)":"25.5","Depth(ft)":"","Boatspeed(kt)":"999","Depth Timestamp":"1664561031.43","Tide station9415143 (m) ":"0.742431583167"},
+"geometry":{"type": "Point","coordinates": [-122.2305614, 38.0684681]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-09-30 11:03:52 ","Battery (Volts)":"12.372","Heading (deg)":"244","GPS Heading(deg)":"11.72","GPS Speed(m/s)":"0.16","Temperature(C)":"25.5","Depth(ft)":"","Boatspeed(kt)":"999","Depth Timestamp":"1664561032.56","Tide station9415143 (m) ":"0.742466092"},
+"geometry":{"type": "Point","coordinates": [-122.2305622, 38.0684679]}},
+{ "type":"Feature","properties": 
+{"date-time":"2022-09-30 11:03:53 ","Battery (Volts)":"12.375","Heading (deg)":"244","GPS Heading(deg)":"11.72","GPS Speed(m/s)":"0.15","Temperature(C)":"25.6","Depth(ft)":"","Boatspeed(kt)":"999","Depth Timestamp":"1664561033.5","Tide station9415143 (m) ":"0.742487202361"},
+"geometry":{"type": "Point","coordinates": [-122.2305627, 38.0684673]}}]}
