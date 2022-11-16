@@ -1,0 +1,6 @@
+{
+ "type": "FeatureCollection",
+  "features": [
+{ "type":"Feature","properties": 
+{"date-time":"2022-11-16 14:29:15 ","Battery (Volts)":"12.662","Heading (deg)":"-78.0365852461","GPS Heading(deg)":"337.25","GPS Speed(m/s)":"0.27","Temperature(C)":"16.6","Depth(ft)":"","Boatspeed(kt)":"999","Depth Timestamp":"1668637755.61","Tide station9415143 (m) ":"0.970152489125"},
+"geometry":{"type": "Point","coordinates": [-122.0909059, 37.9966667]}}]}
